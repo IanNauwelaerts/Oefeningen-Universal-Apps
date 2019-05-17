@@ -9,6 +9,8 @@
     	<Label Text="Welcome to Xamarin.Forms!" 
            HorizontalOptions="Center"
            VerticalOptions="CenterAndExpand" />
+        <Button Text=""KLik hier..." Margin="10" x:Name="ClickBTN" CLicked="New Event Handler" />
+         
     </StackLayout>
 
 </ContentPage>
